@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://llkkk.github.io</id>
     <title>llkkk</title>
-    <updated>2020-06-15T02:39:00.398Z</updated>
+    <updated>2020-06-15T03:01:59.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://llkkk.github.io"/>
     <link rel="self" href="https://llkkk.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://llkkk.github.io/images/avatar.png</logo>
     <icon>https://llkkk.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, llkkk</rights>
+    <entry>
+        <title type="html"><![CDATA[云计算基础概念]]></title>
+        <id>https://llkkk.github.io/post/yun-ji-suan-ji-chu-gai-nian/</id>
+        <link href="https://llkkk.github.io/post/yun-ji-suan-ji-chu-gai-nian/">
+        </link>
+        <updated>2020-06-15T02:35:28.000Z</updated>
+        <content type="html"><![CDATA[<p>云计算分为三层：<br>
+<strong>基础设施层</strong><br>
+主要包括网络系统（networking）、存储设备（storage）、服务器（servers）、虚拟化技术（virtualization）<br>
+<strong>平台层</strong><br>
+建立在基础设施之上，主要包括操作系统（OS）、中间件（moddleware）、运行库（runtime）<br>
+<strong>软件层</strong><br>
+在平台基础上，添加数据（data）、应用（application）</p>
+<p>云计算厂商对应提供的服务<br>
+基础设施即服务IaaS（Infrastructure-as-a-Service）、平台即服务Paas（Platform-as-a-Service）、软件即服务SaaS（Software-as-a-Service）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://llkkk.github.io/post/hello-gridea/</id>
